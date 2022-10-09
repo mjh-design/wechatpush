@@ -2,7 +2,7 @@ name: noon
 
 on:
   schedule:
-  - cron:  '0 04 * * * '
+  - cron:  '30 03 * * * '
   workflow_dispatch:
 
 jobs:
